@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CheckBox</string>
+    <string name="check_milk">Milk</string>
+    <string name="check_butter">Butter</string>
+    <string name="check_water">Water</string>
+    <string name="question">What you want to bye?</string>
+</resources>
